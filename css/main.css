@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after,
+html {
+  box-sizing: border-box; }
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #3e4d5e;
+  text-align: center;
+  font-family: 'Oswald' sans-serif;
+  font-size: 3em;
+  font-weight: 500; }
